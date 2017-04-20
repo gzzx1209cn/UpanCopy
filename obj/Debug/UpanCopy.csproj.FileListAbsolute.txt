@@ -1,0 +1,12 @@
+c:\users\chuni\documents\visual studio 2017\Projects\UpanCopy\UpanCopy\bin\Debug\UpanCopy.exe
+c:\users\chuni\documents\visual studio 2017\Projects\UpanCopy\UpanCopy\bin\Debug\UpanCopy.pdb
+c:\users\chuni\documents\visual studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.Form1.resources
+c:\users\chuni\documents\visual studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.Properties.Resources.resources
+c:\users\chuni\documents\visual studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.csproj.GenerateResource.Cache
+c:\users\chuni\documents\visual studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.exe
+c:\users\chuni\documents\visual studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.pdb
+C:\Users\chuni\Documents\Visual Studio 2017\Projects\UpanCopy\UpanCopy\bin\Debug\UpanCopy.exe.manifest
+C:\Users\chuni\Documents\Visual Studio 2017\Projects\UpanCopy\UpanCopy\bin\Debug\UpanCopy.application
+C:\Users\chuni\Documents\Visual Studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.csprojResolveAssemblyReference.cache
+C:\Users\chuni\Documents\Visual Studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.exe.manifest
+C:\Users\chuni\Documents\Visual Studio 2017\Projects\UpanCopy\UpanCopy\obj\Debug\UpanCopy.application
